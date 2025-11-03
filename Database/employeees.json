@@ -1,0 +1,26 @@
+[
+  {
+    "email": "chanachon.holactie@example.com",
+    "id": 1,
+    "name": "Chanachon Holactie",
+    "password": null,
+    "phone": "0828985463",
+    "role": "manager"
+  },
+  {
+    "email": "yospunya.chaosmax@example.com",
+    "id": 2,
+    "name": "Yospunya ChaosMax",
+    "password": null,
+    "phone": "0820000003",
+    "role": "driver"
+  },
+  {
+    "email": "nakhonnob.exodia@example.com",
+    "id": 3,
+    "name": "Nakhonnob Exodia",
+    "password": null,
+    "phone": "0897459937",
+    "role": "employee"
+  }
+]

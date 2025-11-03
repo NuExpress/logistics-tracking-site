@@ -1,0 +1,170 @@
+[
+  {
+    "address": "99, Moo 9, Tha Pho, Mueang Phitsanulok, Phitsanulok, 650000",
+    "contact": "0899599338",
+    "id": 1,
+    "name": "NU Express",
+    "type": "warehouse"
+  },
+  {
+    "address": "67, Moo 6,Sam-yaek Wichian Buri, Yang Sao, Wichian Buri, Phetchabun, 67130",
+    "contact": "0993246540",
+    "id": 2,
+    "name": "KAI YANG BUA TONG RESTAURANT 2",
+    "type": "house"
+  },
+  {
+    "address": "Moo 9, Doi Suthep, Mueang Chiang Mai, Chiang Mai, 50200",
+    "contact": "053295003",
+    "id": 3,
+    "name": "Wat Phra That Doi Suthep",
+    "type": "pickup_point"
+  },
+  {
+    "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+    "contact": "053286729",
+    "id": 4,
+    "name": "Doi Inthanon National Park",
+    "type": "pickup_point"
+  },
+  {
+    "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+    "contact": "0932935099",
+    "id": 5,
+    "name": "Phu Sang National Park",
+    "type": "pickup_point"
+  },
+  {
+    "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+    "contact": "042530766",
+    "id": 6,
+    "name": "Phu Langka National Park",
+    "type": "pickup_point"
+  },
+  {
+    "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+    "contact": "0922978224",
+    "id": 7,
+    "name": "Kin Do Shabu Yasothorn",
+    "type": "house"
+  },
+  {
+    "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+    "contact": "045244999",
+    "id": 8,
+    "name": "PRINC Hospital",
+    "type": "office"
+  },
+  {
+    "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+    "contact": "028790300",
+    "id": 9,
+    "name": "yanhee international hospital",
+    "type": "office"
+  },
+  {
+    "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+    "contact": "0955966159",
+    "id": 10,
+    "name": "Agaligo clinic lopburi",
+    "type": "house"
+  },
+  {
+    "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+    "contact": "0954633029",
+    "id": 11,
+    "name": "Thaismile Resort&Restaurant",
+    "type": "house"
+  },
+  {
+    "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+    "contact": "034603211",
+    "id": 12,
+    "name": "Robinson Lifestyle Kanchanaburi ",
+    "type": "office"
+  },
+  {
+    "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+    "contact": "0840882264",
+    "id": 13,
+    "name": "Chachoengsao Observatory",
+    "type": "pickup_point"
+  },
+  {
+    "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+    "contact": "075701472",
+    "id": 14,
+    "name": "Krabi International Airport",
+    "type": "warehouse"
+  },
+  {
+    "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+    "contact": "075810888",
+    "id": 15,
+    "name": "Holiday Ao Nang Beach Resort, Krabi",
+    "type": "pickup_point"
+  },
+  {
+    "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+    "contact": "0819903731",
+    "id": 16,
+    "name": "Singkora Hill at Khaodang",
+    "type": "pickup_point"
+  },
+  {
+    "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+    "contact": "075611947",
+    "id": 17,
+    "name": "Thailand Post, Krabi Branch",
+    "type": "warehouse"
+  },
+  {
+    "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+    "contact": "022798048",
+    "id": 18,
+    "name": "Thailand Post, Samsen Nai Branch",
+    "type": "warehouse"
+  },
+  {
+    "address": "Nakorn Nok Rd., Boyang, Mueang Songkhla, Songkhla, 90000",
+    "contact": "074311013",
+    "id": 19,
+    "name": "Thailand Post, Songkhla Branch",
+    "type": "warehouse"
+  },
+  {
+    "address": "3/11 Chomphon, Chiang Ngoen, Mueang Tak, Tak, 63000",
+    "contact": "0628614536",
+    "id": 20,
+    "name": "Flash Express, Mueang Tak Branch",
+    "type": "warehouse"
+  },
+  {
+    "address": "Saraburi-Lomsak Rd., Tha Phon, Mueang Phetchabun, Phetchabun, 67250",
+    "contact": "0873094500",
+    "id": 21,
+    "name": "Flash Express, Tha Phon Branch, Phetchabun Province",
+    "type": "warehouse"
+  },
+  {
+    "address": "80 Atthakawi, Mueang, Nakhon Sawan, 60000",
+    "contact": "0655624093",
+    "id": 22,
+    "name": "Flash Express, Mueang Nakhon Sawan 2 Branch",
+    "type": "warehouse"
+  },
+  {
+    "address": "Him 74, Nimmanhaemin Rd., Suthep, Mueang Chiang Mai, Chiang Mai ,50200",
+    "contact": "0954465058",
+    "id": 23,
+    "name": "KEX Express, Sirimangkalajarn Branch",
+    "type": "warehouse"
+  },
+  {
+    "address": "8 Thap Ma Rd., Noen Phra, Mueang Rayong, Rayong ,21000",
+    "contact": "0986187888",
+    "id": 24,
+    "name": "KEX Express, PMY Intersection Branch",
+    "type": "warehouse"
+  }
+]

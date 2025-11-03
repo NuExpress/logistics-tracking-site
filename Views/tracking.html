@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="/Public/css/tracking-style.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,100,0,0" />
+	<title>Tracking Parcel</title>
+</head>
+
+<body>
+	<!-- Header -->
+	<header>
+		<h1>NU EXPRESS (DEMO)</h1>
+		<a class="signin-btn" href="/Views/sign-in.html">Login</a>
+	</header>
+
+	<!-- Tracking code input -->
+	<form class="panel" id="tracking-form">
+		<input class="tracking-input" id="tracking-input" type="text" placeholder="Enter Tracking Number.....">
+		<button class="tracking-btn" type="submit">Track</button>
+	</form>
+
+	<!-- Tracking status -->
+	<div class="panel tracking-status">
+		<div>
+			<div class="track-box box1">
+				<span style="font-size: 8rem;" class="material-symbols-outlined">
+					package_2
+				</span>
+			</div>
+			<p class="track-label"> Packing</p>
+		</div>
+		<div>
+			<div class="track-box box2">
+				<span style="font-size: 8rem;" class="material-symbols-outlined">
+					delivery_truck_speed
+				</span>
+			</div>
+			<p class="track-label"> Transit</p>
+		</div>
+		<div>
+			<div class="track-box box3">
+				<span style="font-size: 8rem;" class="material-symbols-outlined">
+					approval_delegation
+				</span>
+			</div>
+			<p class="track-label"> Delivered</p>
+		</div>
+	</div>
+
+	<!-- Parcel Logs -->
+	<div class="panel" id="parcel-logs">
+	</div>
+
+	<script src="/Public/js/tracking-script.js"></script>
+</body>
+
+</html>

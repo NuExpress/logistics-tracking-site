@@ -1,0 +1,5816 @@
+[
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "67, Moo 6,Sam-yaek Wichian Buri, Yang Sao, Wichian Buri, Phetchabun, 67130",
+      "contact": "0993246540",
+      "id": 0,
+      "name": "KAI YANG BUA TONG RESTAURANT 2",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 153,
+    "location_id": 2,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET488632655",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  7:21AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "99, Moo 9, Tha Pho, Mueang Phitsanulok, Phitsanulok, 650000",
+      "contact": "0899599338",
+      "id": 0,
+      "name": "NU Express",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 152,
+    "location_id": 1,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET488632655",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 14817.42,
+      "estimated_time": 157,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 23,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  7:19AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "67, Moo 6,Sam-yaek Wichian Buri, Yang Sao, Wichian Buri, Phetchabun, 67130",
+      "contact": "0993246540",
+      "id": 0,
+      "name": "KAI YANG BUA TONG RESTAURANT 2",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 151,
+    "location_id": 2,
+    "note": "Delivery failed",
+    "parcel_id": "ST223587601",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  7:13AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "99, Moo 9, Tha Pho, Mueang Phitsanulok, Phitsanulok, 650000",
+      "contact": "0899599338",
+      "id": 0,
+      "name": "NU Express",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 150,
+    "location_id": 1,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST223587601",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 14817.42,
+      "estimated_time": 157,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 23,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  7:11AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "99, Moo 9, Tha Pho, Mueang Phitsanulok, Phitsanulok, 650000",
+      "contact": "0899599338",
+      "id": 0,
+      "name": "NU Express",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 149,
+    "location_id": 1,
+    "note": "Delivery failed",
+    "parcel_id": "ST35528800",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 14817.42,
+      "estimated_time": 157,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 23,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  7:03AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "80 Atthakawi, Mueang, Nakhon Sawan, 60000",
+      "contact": "0655624093",
+      "id": 0,
+      "name": "Flash Express, Mueang Nakhon Sawan 2 Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 148,
+    "location_id": 22,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST184552212",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 154544.75,
+      "estimated_time": 555,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 18,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  6:45AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "80 Atthakawi, Mueang, Nakhon Sawan, 60000",
+      "contact": "0655624093",
+      "id": 0,
+      "name": "Flash Express, Mueang Nakhon Sawan 2 Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 147,
+    "location_id": 22,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET531485929",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 154544.75,
+      "estimated_time": 555,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 18,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  6:21AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Saraburi-Lomsak Rd., Tha Phon, Mueang Phetchabun, Phetchabun, 67250",
+      "contact": "0873094500",
+      "id": 0,
+      "name": "Flash Express, Tha Phon Branch, Phetchabun Province",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 146,
+    "location_id": 21,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET531485929",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 1317.99,
+      "estimated_time": 326,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 17,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  6:19AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "3/11 Chomphon, Chiang Ngoen, Mueang Tak, Tak, 63000",
+      "contact": "0628614536",
+      "id": 0,
+      "name": "Flash Express, Mueang Tak Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 145,
+    "location_id": 20,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET531485929",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  6:17AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Nakorn Nok Rd., Boyang, Mueang Songkhla, Songkhla, 90000",
+      "contact": "074311013",
+      "id": 0,
+      "name": "Thailand Post, Songkhla Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 144,
+    "location_id": 19,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET531485929",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  6:15AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "3/11 Chomphon, Chiang Ngoen, Mueang Tak, Tak, 63000",
+      "contact": "0628614536",
+      "id": 0,
+      "name": "Flash Express, Mueang Tak Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 143,
+    "location_id": 20,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET136642709",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  6:09AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Nakorn Nok Rd., Boyang, Mueang Songkhla, Songkhla, 90000",
+      "contact": "074311013",
+      "id": 0,
+      "name": "Thailand Post, Songkhla Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 142,
+    "location_id": 19,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET136642709",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  6:07AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 141,
+    "location_id": 18,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET136642709",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  6:05AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "Saraburi-Lomsak Rd., Tha Phon, Mueang Phetchabun, Phetchabun, 67250",
+      "contact": "0873094500",
+      "id": 0,
+      "name": "Flash Express, Tha Phon Branch, Phetchabun Province",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 140,
+    "location_id": 21,
+    "note": "Delivery failed",
+    "parcel_id": "ST555440759",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 1317.99,
+      "estimated_time": 326,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 17,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  6:03AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "3/11 Chomphon, Chiang Ngoen, Mueang Tak, Tak, 63000",
+      "contact": "0628614536",
+      "id": 0,
+      "name": "Flash Express, Mueang Tak Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 139,
+    "location_id": 20,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST555440759",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  6:01AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Nakorn Nok Rd., Boyang, Mueang Songkhla, Songkhla, 90000",
+      "contact": "074311013",
+      "id": 0,
+      "name": "Thailand Post, Songkhla Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 138,
+    "location_id": 19,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST555440759",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:59AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 137,
+    "location_id": 18,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST555440759",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  5:57AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 136,
+    "location_id": 17,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST555440759",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  5:55AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "3/11 Chomphon, Chiang Ngoen, Mueang Tak, Tak, 63000",
+      "contact": "0628614536",
+      "id": 0,
+      "name": "Flash Express, Mueang Tak Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 135,
+    "location_id": 20,
+    "note": "Delivery failed",
+    "parcel_id": "ET198353008",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:53AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "Nakorn Nok Rd., Boyang, Mueang Songkhla, Songkhla, 90000",
+      "contact": "074311013",
+      "id": 0,
+      "name": "Thailand Post, Songkhla Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 134,
+    "location_id": 19,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET198353008",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:51AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 133,
+    "location_id": 18,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET198353008",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:49AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 132,
+    "location_id": 17,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET198353008",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:47AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 131,
+    "location_id": 16,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET198353008",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  5:45AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 130,
+    "location_id": 18,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET611941960",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:41AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 129,
+    "location_id": 17,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET611941960",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:39AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 128,
+    "location_id": 16,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET611941960",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:37AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 127,
+    "location_id": 15,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET611941960",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  5:35AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 126,
+    "location_id": 17,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET723918781",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:31AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 125,
+    "location_id": 16,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET723918781",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:29AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 124,
+    "location_id": 15,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET723918781",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  5:27AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 123,
+    "location_id": 14,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET723918781",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  5:25AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 122,
+    "location_id": 16,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST404080868",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:21AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 121,
+    "location_id": 15,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST404080868",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:19AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 120,
+    "location_id": 14,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST404080868",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:17AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 119,
+    "location_id": 13,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST404080868",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  5:15AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 118,
+    "location_id": 16,
+    "note": "Delivery failed",
+    "parcel_id": "ET73633916",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:13AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 117,
+    "location_id": 15,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET73633916",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:11AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 116,
+    "location_id": 14,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET73633916",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:09AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 115,
+    "location_id": 13,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET73633916",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  5:07AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+      "contact": "034603211",
+      "id": 0,
+      "name": "Robinson Lifestyle Kanchanaburi ",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 114,
+    "location_id": 12,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET73633916",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 334384.875,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 8,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  5:05AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 113,
+    "location_id": 15,
+    "note": "Delivery failed",
+    "parcel_id": "ET61050155",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:03AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 112,
+    "location_id": 14,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET61050155",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  5:01AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 111,
+    "location_id": 13,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET61050155",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:59AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+      "contact": "034603211",
+      "id": 0,
+      "name": "Robinson Lifestyle Kanchanaburi ",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 110,
+    "location_id": 12,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET61050155",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 334384.875,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 8,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:57AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 109,
+    "location_id": 11,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET61050155",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  4:55AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+      "contact": "034603211",
+      "id": 0,
+      "name": "Robinson Lifestyle Kanchanaburi ",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 108,
+    "location_id": 12,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET201337116",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 334384.875,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 8,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:49AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 107,
+    "location_id": 11,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET201337116",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:47AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 106,
+    "location_id": 10,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET201337116",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  4:45AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 105,
+    "location_id": 11,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET961673753",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:39AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 104,
+    "location_id": 10,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET961673753",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:37AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 103,
+    "location_id": 9,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET961673753",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  4:35AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 102,
+    "location_id": 11,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET912134375",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:31AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 101,
+    "location_id": 10,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET912134375",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:29AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 100,
+    "location_id": 9,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET912134375",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:27AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 99,
+    "location_id": 8,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET912134375",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  4:25AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 98,
+    "location_id": 10,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST120496262",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:21AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 97,
+    "location_id": 9,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST120496262",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:19AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 96,
+    "location_id": 8,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST120496262",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  4:17AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 95,
+    "location_id": 7,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST120496262",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 266307.1,
+      "estimated_time": 277,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 3,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  4:15AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 94,
+    "location_id": 8,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET6319068",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:09AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 93,
+    "location_id": 7,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET6319068",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 266307.1,
+      "estimated_time": 277,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 3,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  4:07AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 92,
+    "location_id": 6,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET6319068",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 490730.8,
+      "estimated_time": 289,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 2,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  4:05AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 91,
+    "location_id": 9,
+    "note": "Delivery failed",
+    "parcel_id": "ET914081545",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:03AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 90,
+    "location_id": 8,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET914081545",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  4:01AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 89,
+    "location_id": 7,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET914081545",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 266307.1,
+      "estimated_time": 277,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 3,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:59AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 88,
+    "location_id": 6,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET914081545",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 490730.8,
+      "estimated_time": 289,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 2,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:57AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 87,
+    "location_id": 5,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET914081545",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 457673.625,
+      "estimated_time": 589,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 1,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  3:55AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 86,
+    "location_id": 6,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST792662489",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 490730.8,
+      "estimated_time": 289,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 2,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:49AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 85,
+    "location_id": 5,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST792662489",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 457673.625,
+      "estimated_time": 589,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 1,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:47AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+      "contact": "053286729",
+      "id": 0,
+      "name": "Doi Inthanon National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 84,
+    "location_id": 4,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST792662489",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:45AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 83,
+    "location_id": 7,
+    "note": "Delivery failed",
+    "parcel_id": "ET684547768",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 266307.1,
+      "estimated_time": 277,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 3,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:43AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 82,
+    "location_id": 6,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET684547768",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 490730.8,
+      "estimated_time": 289,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 2,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:41AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 81,
+    "location_id": 5,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET684547768",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 457673.625,
+      "estimated_time": 589,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 1,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:39AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+      "contact": "053286729",
+      "id": 0,
+      "name": "Doi Inthanon National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 80,
+    "location_id": 4,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET684547768",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 102951.508,
+      "estimated_time": 473,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 26,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:37AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Moo 9, Doi Suthep, Mueang Chiang Mai, Chiang Mai, 50200",
+      "contact": "053295003",
+      "id": 0,
+      "name": "Wat Phra That Doi Suthep",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 79,
+    "location_id": 3,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET684547768",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 14817.42,
+      "estimated_time": 157,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 23,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:35AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 78,
+    "location_id": 6,
+    "note": "Delivery failed",
+    "parcel_id": "ST636207438",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 490730.8,
+      "estimated_time": 289,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 2,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:33AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 77,
+    "location_id": 5,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST636207438",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 457673.625,
+      "estimated_time": 589,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 1,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:31AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+      "contact": "053286729",
+      "id": 0,
+      "name": "Doi Inthanon National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 76,
+    "location_id": 4,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST636207438",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 102951.508,
+      "estimated_time": 473,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 26,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:29AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Moo 9, Doi Suthep, Mueang Chiang Mai, Chiang Mai, 50200",
+      "contact": "053295003",
+      "id": 0,
+      "name": "Wat Phra That Doi Suthep",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 75,
+    "location_id": 3,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST636207438",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  3:27AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "67, Moo 6,Sam-yaek Wichian Buri, Yang Sao, Wichian Buri, Phetchabun, 67130",
+      "contact": "0993246540",
+      "id": 0,
+      "name": "KAI YANG BUA TONG RESTAURANT 2",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 74,
+    "location_id": 2,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST636207438",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 61658.52,
+      "estimated_time": 177,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 25,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:25AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "Moo 9, Doi Suthep, Mueang Chiang Mai, Chiang Mai, 50200",
+      "contact": "053295003",
+      "id": 0,
+      "name": "Wat Phra That Doi Suthep",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 73,
+    "location_id": 3,
+    "note": "Delivery failed",
+    "parcel_id": "ST328044384",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:03AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "67, Moo 6,Sam-yaek Wichian Buri, Yang Sao, Wichian Buri, Phetchabun, 67130",
+      "contact": "0993246540",
+      "id": 0,
+      "name": "KAI YANG BUA TONG RESTAURANT 2",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 72,
+    "location_id": 2,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST328044384",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 61658.52,
+      "estimated_time": 177,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 25,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  3:01AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "99, Moo 9, Tha Pho, Mueang Phitsanulok, Phitsanulok, 650000",
+      "contact": "0899599338",
+      "id": 0,
+      "name": "NU Express",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 71,
+    "location_id": 1,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST328044384",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 102951.508,
+      "estimated_time": 473,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 26,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  2:59AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "8 Thap Ma Rd., Noen Phra, Mueang Rayong, Rayong ,21000",
+      "contact": "0986187888",
+      "id": 0,
+      "name": "KEX Express, PMY Intersection Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 70,
+    "location_id": 24,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST272896801",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  2:45AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "8 Thap Ma Rd., Noen Phra, Mueang Rayong, Rayong ,21000",
+      "contact": "0986187888",
+      "id": 0,
+      "name": "KEX Express, PMY Intersection Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 69,
+    "location_id": 24,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET923298310",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  2:37AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Him 74, Nimmanhaemin Rd., Suthep, Mueang Chiang Mai, Chiang Mai ,50200",
+      "contact": "0954465058",
+      "id": 0,
+      "name": "KEX Express, Sirimangkalajarn Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 68,
+    "location_id": 23,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET923298310",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 14817.42,
+      "estimated_time": 157,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 23,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  2:35AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "8 Thap Ma Rd., Noen Phra, Mueang Rayong, Rayong ,21000",
+      "contact": "0986187888",
+      "id": 0,
+      "name": "KEX Express, PMY Intersection Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 67,
+    "location_id": 24,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET594353122",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 30084.89,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 24,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  2:29AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Him 74, Nimmanhaemin Rd., Suthep, Mueang Chiang Mai, Chiang Mai ,50200",
+      "contact": "0954465058",
+      "id": 0,
+      "name": "KEX Express, Sirimangkalajarn Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 66,
+    "location_id": 23,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET594353122",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 14817.42,
+      "estimated_time": 157,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 23,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  2:27AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "80 Atthakawi, Mueang, Nakhon Sawan, 60000",
+      "contact": "0655624093",
+      "id": 0,
+      "name": "Flash Express, Mueang Nakhon Sawan 2 Branch",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 65,
+    "location_id": 22,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET594353122",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 332683.719,
+      "estimated_time": 261,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 22,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  2:25AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Saraburi-Lomsak Rd., Tha Phon, Mueang Phetchabun, Phetchabun, 67250",
+      "contact": "0873094500",
+      "id": 0,
+      "name": "Flash Express, Tha Phon Branch, Phetchabun Province",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 64,
+    "location_id": 21,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET157129518",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 182965.344,
+      "estimated_time": 241,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 21,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  1:59AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 63,
+    "location_id": 18,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET415462150",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 154544.75,
+      "estimated_time": 555,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 18,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  1:45AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 62,
+    "location_id": 18,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET872758115",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 154544.75,
+      "estimated_time": 555,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 18,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  1:37AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 61,
+    "location_id": 17,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET872758115",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 1317.99,
+      "estimated_time": 326,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 17,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  1:35AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 60,
+    "location_id": 18,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST296068961",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 154544.75,
+      "estimated_time": 555,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 18,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  1:29AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 59,
+    "location_id": 17,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST296068961",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 1317.99,
+      "estimated_time": 326,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 17,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  1:27AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 58,
+    "location_id": 16,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST296068961",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  1:25AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "1549 Phahonyothin Rd., Phayathai, Phayathai, Bangkok, 10400",
+      "contact": "022798048",
+      "id": 0,
+      "name": "Thailand Post, Samsen Nai Branch",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 57,
+    "location_id": 18,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST521573956",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 154544.75,
+      "estimated_time": 555,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 18,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  1:21AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "190 Utrakij Rd., Pak Nam, Mueang Krabi, Krabi, 81000",
+      "contact": "075611947",
+      "id": 0,
+      "name": "Thailand Post, Krabi Branch",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 56,
+    "location_id": 17,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST521573956",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 1317.99,
+      "estimated_time": 326,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 17,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  1:19AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 55,
+    "location_id": 16,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST521573956",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  1:17AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 54,
+    "location_id": 15,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST521573956",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  1:15AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 53,
+    "location_id": 16,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET71442817",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025  1:09AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 52,
+    "location_id": 15,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET71442817",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025  1:07AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 51,
+    "location_id": 14,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET71442817",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025  1:05AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 50,
+    "location_id": 15,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST720444907",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:59AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 49,
+    "location_id": 14,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST720444907",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:57AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 48,
+    "location_id": 13,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST720444907",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025 12:55AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "Hill at Khao Dang Singkora, Singhanakhon, Songkhla, 90280",
+      "contact": "0819903731",
+      "id": 0,
+      "name": "Singkora Hill at Khaodang",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 47,
+    "location_id": 16,
+    "note": "Delivery failed",
+    "parcel_id": "ET457032142",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 187402.563,
+      "estimated_time": 89,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 16,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:53AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 46,
+    "location_id": 15,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET457032142",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:51AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 45,
+    "location_id": 14,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET457032142",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:49AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 44,
+    "location_id": 13,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET457032142",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025 12:47AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+      "contact": "034603211",
+      "id": 0,
+      "name": "Robinson Lifestyle Kanchanaburi ",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 43,
+    "location_id": 12,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET457032142",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025 12:45AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "123 Ao Nang, Mueang Krabi, Krabi, 81180",
+      "contact": "075810888",
+      "id": 0,
+      "name": "Holiday Ao Nang Beach Resort, Krabi",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 42,
+    "location_id": 15,
+    "note": "Delivery failed",
+    "parcel_id": "ET298310266",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 414793.625,
+      "estimated_time": 129,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 15,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:43AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 41,
+    "location_id": 14,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET298310266",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:41AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 40,
+    "location_id": 13,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET298310266",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:39AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+      "contact": "034603211",
+      "id": 0,
+      "name": "Robinson Lifestyle Kanchanaburi ",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 39,
+    "location_id": 12,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET298310266",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025 12:37AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 38,
+    "location_id": 11,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET298310266",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025 12:35AM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "133 Phetkasem Rd., Nuea Khlong, Nuea Khlong, Krabi, 81130",
+      "contact": "075701472",
+      "id": 0,
+      "name": "Krabi International Airport",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 37,
+    "location_id": 14,
+    "note": "Delivery failed",
+    "parcel_id": "ST375964699",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 375210.563,
+      "estimated_time": 566,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 14,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:33AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "999, Moo 3, Wang Yen, Plaeng Yao, Chachoengsao, 24190",
+      "contact": "0840882264",
+      "id": 0,
+      "name": "Chachoengsao Observatory",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 36,
+    "location_id": 13,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST375964699",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 155736.844,
+      "estimated_time": 375,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 13,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:31AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "110 Liang Mueang Kanchanaburi Rd., Pak Phraek, Mueang Kanchanaburi, Kanchanaburi, 71000",
+      "contact": "034603211",
+      "id": 0,
+      "name": "Robinson Lifestyle Kanchanaburi ",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 35,
+    "location_id": 12,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST375964699",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77149.25,
+      "estimated_time": 58,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 12,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:29AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 34,
+    "location_id": 11,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST375964699",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025 12:27AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 33,
+    "location_id": 10,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST375964699",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025 12:25AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 32,
+    "location_id": 11,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST685555260",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:19AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 31,
+    "location_id": 10,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST685555260",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025 12:17AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 30,
+    "location_id": 9,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST685555260",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025 12:15AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "88/7 Ban Kruan, Soi 1, Klaeng, Mueang Rayong, Rayong, 21160",
+      "contact": "0954633029",
+      "id": 0,
+      "name": "Thaismile Resort&Restaurant",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 29,
+    "location_id": 11,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET597817135",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 481800.563,
+      "estimated_time": 52,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 11,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:11AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 28,
+    "location_id": 10,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET597817135",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:09AM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 27,
+    "location_id": 9,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET597817135",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 2,
+    "timestamp": "Nov  2 2025 12:07AM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 26,
+    "location_id": 8,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET597817135",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 334384.875,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 8,
+    "sequence": 1,
+    "timestamp": "Nov  2 2025 12:05AM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 25,
+    "location_id": 10,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET665489578",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 0,
+    "timestamp": "Nov  2 2025 12:01AM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 24,
+    "location_id": 9,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET665489578",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:59PM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 23,
+    "location_id": 8,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET665489578",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 334384.875,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 8,
+    "sequence": 2,
+    "timestamp": "Nov  1 2025 11:57PM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 22,
+    "location_id": 7,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET665489578",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 1,
+    "timestamp": "Nov  1 2025 11:55PM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "116 Moo 8, Akaliko Bldg., Pa Tan, Mueang Lopburi, Lopburi, 15000",
+      "contact": "0955966159",
+      "id": 0,
+      "name": "Agaligo clinic lopburi",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 21,
+    "location_id": 10,
+    "note": "Delivery failed",
+    "parcel_id": "ET203517521",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 25131.99,
+      "estimated_time": 446,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 10,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:53PM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "454 Charan Sanitwong Rd., Bang O, Bang Phlat, Bangkok, 10700",
+      "contact": "028790300",
+      "id": 0,
+      "name": "yanhee international hospital",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 20,
+    "location_id": 9,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET203517521",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 77808.35,
+      "estimated_time": 190,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 9,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:51PM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "139 Pholphan Rd., Nai Mueang, Mueang Ubon Ratchathani, Ubon Ratchathani, 34000",
+      "contact": "045244999",
+      "id": 0,
+      "name": "PRINC Hospital",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 19,
+    "location_id": 8,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET203517521",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 334384.875,
+      "estimated_time": 489,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 8,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:49PM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 18,
+    "location_id": 7,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET203517521",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 2,
+    "timestamp": "Nov  1 2025 11:47PM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 17,
+    "location_id": 6,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET203517521",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 1,
+    "timestamp": "Nov  1 2025 11:45PM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 16,
+    "location_id": 7,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET729500893",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:39PM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 15,
+    "location_id": 6,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET729500893",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 2,
+    "timestamp": "Nov  1 2025 11:37PM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 14,
+    "location_id": 5,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET729500893",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 1,
+    "timestamp": "Nov  1 2025 11:35PM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "35 Soi Damrongwimonkhun Rd., Nai Mueang, Mueang Yasothon, Yasothon, 35000",
+      "contact": "0922978224",
+      "id": 0,
+      "name": "Kin Do Shabu Yasothorn",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 13,
+    "location_id": 7,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST11902565",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 138240.438,
+      "estimated_time": 528,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "assigned",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 7,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:31PM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 12,
+    "location_id": 6,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST11902565",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:29PM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 11,
+    "location_id": 5,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST11902565",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:27PM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+      "contact": "053286729",
+      "id": 0,
+      "name": "Doi Inthanon National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 10,
+    "location_id": 4,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST11902565",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 1,
+    "timestamp": "Nov  1 2025 11:25PM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 9,
+    "location_id": 6,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ET78080002",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:21PM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 8,
+    "location_id": 5,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ET78080002",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:19PM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+      "contact": "053286729",
+      "id": 0,
+      "name": "Doi Inthanon National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 7,
+    "location_id": 4,
+    "note": "Parcel is in transit",
+    "parcel_id": "ET78080002",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 2,
+    "timestamp": "Nov  1 2025 11:17PM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "Moo 9, Doi Suthep, Mueang Chiang Mai, Chiang Mai, 50200",
+      "contact": "053295003",
+      "id": 0,
+      "name": "Wat Phra That Doi Suthep",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 6,
+    "location_id": 3,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ET78080002",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 266307.1,
+      "estimated_time": 277,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 3,
+    "sequence": 1,
+    "timestamp": "Nov  1 2025 11:15PM"
+  },
+  {
+    "action": "failed",
+    "current_location": {
+      "address": "Phai Lom, Ban Phaeng, NakhonPhanom, 48140",
+      "contact": "042530766",
+      "id": 0,
+      "name": "Phu Langka National Park",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 5,
+    "location_id": 6,
+    "note": "Delivery failed",
+    "parcel_id": "ST427566881",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 338015.344,
+      "estimated_time": 400,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "cancelled",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 6,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:13PM"
+  },
+  {
+    "action": "arrived_warehouse",
+    "current_location": {
+      "address": "Moo 8, Phu Sang, Phu Sang, Phayao, 56110",
+      "contact": "0932935099",
+      "id": 0,
+      "name": "Phu Sang National Park",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 4,
+    "location_id": 5,
+    "note": "Parcel arrived at warehouse",
+    "parcel_id": "ST427566881",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 305563,
+      "estimated_time": 17,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "completed",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 5,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:11PM"
+  },
+  {
+    "action": "out_for_delivery",
+    "current_location": {
+      "address": "Moo 7, Ban Luang , Chom Thong , Chiang Mai , 50160",
+      "contact": "053286729",
+      "id": 0,
+      "name": "Doi Inthanon National Park",
+      "type": null
+    },
+    "employee_id": 1,
+    "handled_by": {
+      "email": "chanachon.holactie@example.com",
+      "id": 0,
+      "name": "Chanachon Holactie",
+      "password": null,
+      "phone": null,
+      "role": "manager"
+    },
+    "id": 3,
+    "location_id": 4,
+    "note": "Parcel is out for delivery",
+    "parcel_id": "ST427566881",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 125754.25,
+      "estimated_time": 179,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 4,
+    "sequence": 0,
+    "timestamp": "Nov  1 2025 11:09PM"
+  },
+  {
+    "action": "in_transit",
+    "current_location": {
+      "address": "Moo 9, Doi Suthep, Mueang Chiang Mai, Chiang Mai, 50200",
+      "contact": "053295003",
+      "id": 0,
+      "name": "Wat Phra That Doi Suthep",
+      "type": null
+    },
+    "employee_id": 3,
+    "handled_by": {
+      "email": "nakhonnob.exodia@example.com",
+      "id": 0,
+      "name": "Nakhonnob Exodia",
+      "password": null,
+      "phone": null,
+      "role": "employee"
+    },
+    "id": 2,
+    "location_id": 3,
+    "note": "Parcel is in transit",
+    "parcel_id": "ST427566881",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 266307.1,
+      "estimated_time": 277,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 3,
+    "sequence": 2,
+    "timestamp": "Nov  1 2025 11:07PM"
+  },
+  {
+    "action": "received",
+    "current_location": {
+      "address": "67, Moo 6,Sam-yaek Wichian Buri, Yang Sao, Wichian Buri, Phetchabun, 67130",
+      "contact": "0993246540",
+      "id": 0,
+      "name": "KAI YANG BUA TONG RESTAURANT 2",
+      "type": null
+    },
+    "employee_id": 2,
+    "handled_by": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 0,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": "driver"
+    },
+    "id": 1,
+    "location_id": 2,
+    "note": "Receive parcel into the system",
+    "parcel_id": "ST427566881",
+    "route": {
+      "destination": null,
+      "destination_id": 0,
+      "distance": 490730.8,
+      "estimated_time": 289,
+      "id": 0,
+      "origin": null,
+      "origin_id": 0,
+      "status": "in_progress",
+      "vehicle": null,
+      "vehicle_id": 0
+    },
+    "route_id": 2,
+    "sequence": 1,
+    "timestamp": "Nov  1 2025 11:05PM"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "capacity": 2000,
+    "driver": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 2,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": null
+    },
+    "driver_id": 2,
+    "id": 1,
+    "license_plate": "BK-5973",
+    "status": "available"
+  },
+  {
+    "capacity": 1800,
+    "driver": {
+      "email": "yospunya.chaosmax@example.com",
+      "id": 2,
+      "name": "Yospunya ChaosMax",
+      "password": null,
+      "phone": null,
+      "role": null
+    },
+    "driver_id": 2,
+    "id": 2,
+    "license_plate": "CM-2496",
+    "status": "in_use"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "count": 4,
+    "status": "cancelled"
+  },
+  {
+    "count": 8,
+    "status": "delivered"
+  },
+  {
+    "count": 24,
+    "status": "in_transit"
+  },
+  {
+    "count": 8,
+    "status": "pending"
+  }
+]
